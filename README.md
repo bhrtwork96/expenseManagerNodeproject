@@ -1,8 +1,8 @@
-**API Informations**
+# API Informations**
 
-**Expense Category CURD API**
+## Expense Category CURD API**
 
-      '/expence/api/v1/expencecat'
+      *. '/expence/api/v1/expencecat'
       method - POST // for creating expense category
 
       body data = {
